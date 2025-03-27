@@ -1,0 +1,23 @@
+date,team1,team2,venue,completed,winner,margin,team1_current_win_rate,team2_current_win_rate,prediction,prediction_confidence
+2025-03-22,Chennai Super Kings,Royal Challengers Bangalore,M. A. Chidambaram Stadium,True,Chennai Super Kings,35.0,75.0,25.0,,
+2025-03-23,Punjab Kings,Delhi Capitals,"PCA Stadium, Mohali",True,Delhi Capitals,8.0,33.33333333333333,25.0,,
+2025-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,True,Kolkata Knight Riders,57.0,100.0,50.0,,
+2025-03-24,Rajasthan Royals,Lucknow Super Giants,Sawai Mansingh Stadium,True,Rajasthan Royals,15.0,100.0,33.33333333333333,,
+2025-03-24,Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,True,Mumbai Indians,6.0,33.33333333333333,33.33333333333333,,
+2025-03-25,Royal Challengers Bangalore,Punjab Kings,M. Chinnaswamy Stadium,True,Royal Challengers Bangalore,26.0,25.0,33.33333333333333,,
+2025-03-26,Chennai Super Kings,Gujarat Titans,M. A. Chidambaram Stadium,True,Gujarat Titans,34.0,75.0,33.33333333333333,,
+2025-03-27,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,True,Sunrisers Hyderabad,43.0,50.0,33.33333333333333,,
+2025-03-28,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,True,Rajasthan Royals,20.0,100.0,25.0,,
+2025-03-29,Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,True,Kolkata Knight Riders,19.0,25.0,100.0,,
+2025-03-30,Lucknow Super Giants,Punjab Kings,BRSABV Ekana Cricket Stadium,True,Punjab Kings,25.0,33.33333333333333,33.33333333333333,,
+2025-03-31,Gujarat Titans,Sunrisers Hyderabad,Narendra Modi Stadium,True,Sunrisers Hyderabad,7.0,33.33333333333333,50.0,,
+2025-04-01,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,True,Chennai Super Kings,52.0,25.0,75.0,,
+2025-04-02,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,True,Rajasthan Royals,14.0,33.33333333333333,100.0,,
+2025-04-03,Royal Challengers Bangalore,Lucknow Super Giants,M. Chinnaswamy Stadium,True,Lucknow Super Giants,28.0,25.0,33.33333333333333,,
+2025-04-04,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,True,Kolkata Knight Riders,45.0,25.0,100.0,,
+2025-04-05,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Stadium,True,Chennai Super Kings,18.0,50.0,75.0,,
+2025-04-06,Mumbai Indians,Delhi Capitals,Wankhede Stadium,False,,,33.33333333333333,25.0,Mumbai Indians,88.5173814796261
+2025-04-07,Lucknow Super Giants,Gujarat Titans,BRSABV Ekana Cricket Stadium,False,,,33.33333333333333,33.33333333333333,Gujarat Titans,93.85616000278402
+2025-04-08,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,False,,,100.0,25.0,Rajasthan Royals,91.49399372963627
+2025-04-09,Kolkata Knight Riders,Punjab Kings,Eden Gardens,False,,,100.0,33.33333333333333,Kolkata Knight Riders,92.94844203222316
+2025-04-10,Chennai Super Kings,Mumbai Indians,M. A. Chidambaram Stadium,False,,,75.0,33.33333333333333,Chennai Super Kings,92.04668669927636

@@ -1,0 +1,11 @@
+team,overall_rating,tier,avg_win_probability,strengths,weaknesses,batting_avg,bowling_economy,form_rating
+Kolkata Knight Riders,100.0,A,69.70456578328631,"Batting, Bowling, Recent Form, Home Performance",,178.6,7.8,75.0
+Rajasthan Royals,81.67632910008517,A,66.01855873002555,"Batting, Bowling, Recent Form, Home Performance",,173.2,8.0,75.0
+Chennai Super Kings,71.9234983448604,A,67.05515904890296,"Bowling, Recent Form, Home Performance",Batting,168.3,8.2,75.0
+Sunrisers Hyderabad,39.6797477196423,B,48.974117361973896,Recent Form,"Batting, Bowling",167.8,8.7,50.0
+Mumbai Indians,22.70225540656128,B,54.516278162755995,Batting,"Bowling, Recent Form",172.4,8.9,25.0
+Lucknow Super Giants,16.345015213486118,C,37.018177700159264,Bowling,"Batting, Recent Form",165.8,8.5,25.0
+Punjab Kings,13.253324330603943,C,33.74573446199262,Batting,"Bowling, Recent Form",169.6,9.1,25.0
+Delhi Capitals,9.88402736293586,D,36.04060352016996,,"Batting, Bowling, Recent Form",162.1,8.6,25.0
+Royal Challengers Bangalore,8.188133690531526,D,35.86194028416814,Batting,"Bowling, Recent Form",176.5,9.2,25.0
+Gujarat Titans,0.0,D,39.50360878858457,Bowling,"Batting, Recent Form",160.5,8.4,25.0
